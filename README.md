@@ -8,4 +8,4 @@ We created this web page to give people break when when he or she can not get aw
 #Calming Images
 Clicking the “Calm” button will display randomly generated, relaxing images. These images have been submitted by the creators of this web page. They call themselves the Fabulous Five.
 
-<img src="calming-images.gif" width="70" height="70" />
+<img src="calming-images.gif" width="250" height="250" />
